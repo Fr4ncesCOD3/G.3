@@ -1,0 +1,33 @@
+body {
+    display:block;
+    font-family: serif;
+}
+
+header .logo {
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+header .banner {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 50%;
+    background-color: #fdd46143;
+    border-top: 3px solid #fdd3616f;
+}
+
+main {
+    display: block;
+    justify-content: center;
+    align-items: center;
+}
+
+main h1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
